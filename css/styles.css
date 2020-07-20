@@ -1,0 +1,31 @@
+body {
+  padding: 10px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+}
+#usuarios {
+  margin-top: 10px;
+  padding: 1rem;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+#estatisticas {
+  margin-top: 10px;
+  padding: 1rem;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+.row .col.s6 {
+  width: 48% !important;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+  margin-right: 1rem;
+}
